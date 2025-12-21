@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Ame(A)",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-21T06:35:10.848566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ame(A)",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_Ame(A)_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ame(A)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_Ame(A)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ame(A)",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/03_Ame(A)_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ame(A)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_Ame(A)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ame (A)",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/05_Ame_(A)_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "De mon âme à ton âme",
+      "artist": "KOMPROMAT feat. Adele Haenel",
+      "has_synced": true,
+      "path": "select/06_De_mon_âme_à_ton_âme_KOMPROMAT_feat._Adele_Haenel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "De mon âme à ton âme",
+      "artist": "KOMPROMAT",
+      "has_synced": true,
+      "path": "select/07_De_mon_âme_à_ton_âme_KOMPROMAT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Une Âme A La Mer",
+      "artist": "Verlies",
+      "has_synced": false,
+      "path": "select/08_Une_Âme_A_La_Mer_Verlies.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ens��ame a bailar",
+      "artist": "bad bunny",
+      "has_synced": true,
+      "path": "select/09_ens��ame_a_bailar_bad_bunny.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mon âme a soif de toi",
+      "artist": "Sœur Agathe",
+      "has_synced": true,
+      "path": "select/10_Mon_âme_a_soif_de_toi_Sœur_Agathe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Que Vive Mon Âme À Te Louer",
+      "artist": "Agape",
+      "has_synced": true,
+      "path": "select/11_Que_Vive_Mon_Âme_À_Te_Louer_Agape.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "闇に降る雨 - Yami Ni Furu Ame -A Driving Rain In Darkness-",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/12_闇に降る雨_-_Yami_Ni_Furu_Ame_-A_Driving_Rain_In_Darkness-_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ense�ame a vivir sin ti",
+      "artist": "gilberto santa rosa",
+      "has_synced": true,
+      "path": "select/13_ense�ame_a_vivir_sin_ti_gilberto_santa_rosa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ame(A)",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_Ame(A)_サカナクション.txt"
+    }
+  ]
+}
